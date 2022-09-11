@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="com.mts.backend in back-end" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="back-end" />
+    <option name="PACKAGE_NAME" value="com.mts.backend" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="package" />
+    <envs>
+      <env name="TWILIO_SID" value="ACff04659619acffbeb47f3ec81aa8fd49" />
+      <env name="TWILIO_KEY" value="e8216399eeecbab810f7f158217833df" />
+      <env name="TWILIO_PHONE_FROM" value="+14454474859" />
+      <env name="TWILIO_PHONE_TO" value="+5511957164309" />
+    </envs>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
